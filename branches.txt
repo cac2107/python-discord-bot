@@ -1,0 +1,8 @@
+military
+coast guard
+national guard
+navy
+air force
+army
+space force
+marine
